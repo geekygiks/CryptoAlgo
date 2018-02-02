@@ -8,7 +8,7 @@ Usage:
 1. Download and extract the zipped file {$Crypto}
 2. Follow the steps as mentioned below,
 
-	a). cd to $Crypto/crypt/ folder
+  a). cd to $Crypto/crypt/ folder
       
         $./crypt
 
@@ -40,8 +40,8 @@ Usage:
 
         Enter the text you want to encrypt..
         
-        Do you want to upload an Image(Y/N) (Pl. copy the image to be uploaded in $Crypt/crypt/ folder and rename as file.jpg)
-
+        Do you want to upload an Image(Y/N) (Pl. copy the image to be uploaded in $Crypto/crypt/ folder and rename as file.jpg)
+	
 	Some signing activity
 	
         Writing the necessary info to your file
