@@ -1,6 +1,6 @@
-# crypt
+# CryptoAlgo
 
-Standalone Python3.* linux based binary executable based Crypto program is licensed under GNU LGPLv3 (See LICENSE). The crypto algorithm is based on Simple Elliptic Curve Cryptography algorithm made available by py-seccure
+Standalone Python3.* linux based binary executable based Crypto program is licensed under GNU LGPLv3 (See LICENSE). The crypto algorithm is based on Simple Elliptic Curve Cryptography algorithm made available by [py-seccure](https://github.com/bwesterb/py-seccure)
 
 Usage:
 ----------
