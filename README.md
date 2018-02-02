@@ -29,7 +29,7 @@ Usage:
         PassPhrase:
 
  
-  c). Encrypt the message (image to be encrypt must be renamed as "file.jpg" and stored in $Crypto/crypt/ folder)
+  c). Encrypt the message (image to be encrypted must be renamed as "file.jpg" and stored in $Crypto/crypt/ folder)
     
         $./crypt encrypt
         
@@ -40,15 +40,15 @@ Usage:
 
         Enter the text you want to encrypt..
         
-        Do you want to upload an Image(Y/N)  
-          (Pl. copy the image to be upPlease note the message will now be digitally signed
-        Message is now signed!!
+        Do you want to upload an Image(Y/N) (Pl. copy the image to be uploaded in $Crypt/crypt/ folder and rename as file.jpg)
 
-        Writing the necessary info to your fileloaded in the current directory and rename it to file.jpg)
+	Some signing activity
+	
+        Writing the necessary info to your file
  
         Please enter the 25 Character recipient address (Or you can generate one by clicking pressing 'G')..
                 
-        Now you can secretly send your encrypted document in '../../outFiles' directory to the concerned recipient
+        Now you can secretly send your encrypted document in '../outFiles' directory to the concerned recipient
 
         Encrypted file is stored in $Crypto/outputFiles/ 
   
