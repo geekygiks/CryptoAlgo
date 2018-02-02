@@ -8,7 +8,7 @@ Usage:
 1. Download and extract the zipped file {$Crypto}
 2. Follow the steps as mentioned below,
 
-  a). cd to $Crypto/crypt/ folder
+	a). cd to $Crypto/crypt/ folder
       
         $./crypt
 
@@ -18,7 +18,7 @@ Usage:
         ./crypt encrypt - for encrypting the text
         ./crypt decrypt - for decrypting the text
   
-  b). Generate the public key
+  	b). Generate the public key
         
         $./crypt keygeneration
           
@@ -29,7 +29,7 @@ Usage:
         PassPhrase:
 
  
-  c). Encrypt the message (image to be encrypted must be renamed as "file.jpg" and stored in $Crypto/crypt/ folder)
+  	c). Encrypt the message (image to be encrypted must be renamed as "file.jpg" and stored in $Crypto/crypt/ folder)
     
         $./crypt encrypt
         
@@ -41,9 +41,7 @@ Usage:
         Enter the text you want to encrypt..
         
         Do you want to upload an Image(Y/N) (Pl. copy the image to be uploaded in $Crypto/crypt/ folder and rename as file.jpg)
-	
-	Some signing activity
-	
+		
         Writing the necessary info to your file
  
         Please enter the 25 Character recipient address (Or you can generate one by clicking pressing 'G')..
@@ -52,7 +50,7 @@ Usage:
 
         Encrypted file is stored in $Crypto/outputFiles/ 
   
-  d). Decrypt the message
+  	d). Decrypt the message
     
         $./crypt decrypt
         
