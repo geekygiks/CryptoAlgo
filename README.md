@@ -1,8 +1,6 @@
 # CryptoAlgo
 Encrypt your text/image via ECC algorithm using standalone binary
 
-# crypt
-
 Standalone Python3.* based binary executable based Crypto program is licensed under GNU LGPLv3 (See LICENSE). The crypto algorithm is based on Simple Elliptic Curve Cryptography algorithm made available by py-seccure
 
 Usage:
@@ -17,9 +15,9 @@ Usage:
 
         Command line usage as follows:
         ==============================
-        ./crypt keygeneration - for generating the public key
-        ./crypt encrypt - for encrypting the text
-        ./crypt decrypt - for decrypting the text
+        ./crypt/crypt keygeneration - for generating the public key
+        ./crypt/crypt encrypt - for encrypting the text
+        ./crypt/crypt decrypt - for decrypting the text
   
   b). Generate the public key
         
@@ -43,11 +41,7 @@ Usage:
 
         Enter the text you want to encrypt..
         
-        Do you want to upload an Image(Y/N)  
-          (Pl. copy the image to be upPlease note the message will now be digitally signed
-        Message is now signed!!
-
-        Writing the necessary info to your fileloaded in the current directory and rename it to file.jpg)
+        Do you want to upload an Image(Y/N)  (Pl. copy the image to be used in ${Crypto}/crypt/ folder)
  
         Please enter the 25 Character recipient address (Or you can generate one by clicking pressing 'G')..
                 
@@ -74,4 +68,6 @@ Usage:
         Writing to disk..
         
         Encrypted file is stored in $Crypto/info/      
+  
+  Feel free to raise a issue if you are facing any difficulty.. !!
   
