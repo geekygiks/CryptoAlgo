@@ -6,10 +6,10 @@ Standalone Python3.* based binary executable based Crypto program is licensed un
 Usage:
 ----------
 
-1. Download and extract the zipped file {$Crypto}
+1. Download/extract the zipped file or clone this repository to your home directory {$Crypto}
 2. Follow the steps as mentioned below,
 
-	a). cd to $Crypto/crypt/ folder
+	a). cd to ${Crypto}/CryptoAlgo/CryptoAlgo/ folder
       
         $./crypt/crypt
 
