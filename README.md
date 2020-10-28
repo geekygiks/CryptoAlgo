@@ -1,8 +1,12 @@
 # CryptoAlgo
 Encrypt your text/image via ECC algorithm using standalone binary
 
-Standalone Python3.* based binary executable based Crypto program is licensed under GNU LGPLv3 (See LICENSE). The crypto algorithm is based on Simple Elliptic Curve Cryptography algorithm made available by py-seccure( 
+
+Python3 executable based Crypto program is licensed under GNU LGPLv3 (See LICENSE). The crypto algorithm is based on Simple Elliptic Curve Cryptography(Ecc) algorithm made available by py-seccure( 
 https://github.com/bwesterb/py-seccure)
+
+
+
 Usage:
 ----------
 
